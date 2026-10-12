@@ -1,0 +1,28 @@
+Copyright (c) 2026 Michinao Shimizu. All rights reserved.
+
+尾道さんぽ（Onomichi Explorer）
+
+このソフトウェアのプログラム、3D モデル、シェーダー、およびゲーム用に加工・生成した
+データ（地形・建物・道路・植生・屋根の色などのデータファイル）の著作権は制作者に
+帰属します。
+
+個人で遊ぶこと、スクリーンショットや動画を SNS などで紹介することは自由です。
+それ以外の複製、改変、再配布、他サイトへの転載、商用利用、およびリバースエンジニア
+リングは、制作者の書面による許可なく行わないでください。
+
+The program, 3D models, shaders and the data processed or generated for this game
+(terrain, buildings, roads, vegetation, roof colours and other data files) are the
+copyright of the author. You may play the game for personal use and share
+screenshots and videos of it. Any other copying, modification, redistribution,
+re-hosting on another site, commercial use or reverse engineering requires the
+author's prior written permission.
+
+---
+
+Third-party material
+
+- Map data and aerial photographs: 「地理院タイル」（国土地理院）を加工して作成
+  (GSI Tiles, Geospatial Information Authority of Japan, processed by the author).
+  These remain subject to the GSI Content Terms of Use:
+  https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html
+- three.js (MIT License). See THIRD_PARTY_LICENSES.txt for the full licence text.
