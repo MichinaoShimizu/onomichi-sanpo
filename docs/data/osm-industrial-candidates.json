@@ -1,0 +1,2915 @@
+{
+  "version": 1,
+  "source": "OpenStreetMap contributors (ODbL)",
+  "evidence": "spatial-candidate-not-verified-industrial-building",
+  "sourceRun": 38355125313,
+  "auditRun": 38378288967,
+  "elements": [
+    {
+      "type": "way",
+      "id": 662941229,
+      "geometry": [
+        {
+          "lat": 34.4108699,
+          "lon": 133.228237
+        },
+        {
+          "lat": 34.4109296,
+          "lon": 133.2284953
+        },
+        {
+          "lat": 34.4107146,
+          "lon": 133.2285683
+        },
+        {
+          "lat": 34.4106549,
+          "lon": 133.22831
+        },
+        {
+          "lat": 34.4108699,
+          "lon": 133.228237
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941229,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941230,
+      "geometry": [
+        {
+          "lat": 34.4111714,
+          "lon": 133.2280298
+        },
+        {
+          "lat": 34.411251,
+          "lon": 133.2282952
+        },
+        {
+          "lat": 34.4110015,
+          "lon": 133.2284051
+        },
+        {
+          "lat": 34.4109219,
+          "lon": 133.2281398
+        },
+        {
+          "lat": 34.4111714,
+          "lon": 133.2280298
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941230,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941231,
+      "geometry": [
+        {
+          "lat": 34.411117,
+          "lon": 133.2278368
+        },
+        {
+          "lat": 34.4111577,
+          "lon": 133.2279861
+        },
+        {
+          "lat": 34.4109171,
+          "lon": 133.2280826
+        },
+        {
+          "lat": 34.4108764,
+          "lon": 133.2279333
+        },
+        {
+          "lat": 34.411117,
+          "lon": 133.2278368
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941231,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941232,
+      "geometry": [
+        {
+          "lat": 34.4111544,
+          "lon": 133.227702
+        },
+        {
+          "lat": 34.4111814,
+          "lon": 133.2277971
+        },
+        {
+          "lat": 34.4108694,
+          "lon": 133.2279269
+        },
+        {
+          "lat": 34.4108425,
+          "lon": 133.2278318
+        },
+        {
+          "lat": 34.4111544,
+          "lon": 133.227702
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941232,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941233,
+      "geometry": [
+        {
+          "lat": 34.4110596,
+          "lon": 133.2274948
+        },
+        {
+          "lat": 34.4111005,
+          "lon": 133.2276525
+        },
+        {
+          "lat": 34.4108768,
+          "lon": 133.2277376
+        },
+        {
+          "lat": 34.410836,
+          "lon": 133.22758
+        },
+        {
+          "lat": 34.4110596,
+          "lon": 133.2274948
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941233,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941235,
+      "geometry": [
+        {
+          "lat": 34.41074,
+          "lon": 133.2276892
+        },
+        {
+          "lat": 34.4107997,
+          "lon": 133.2279333
+        },
+        {
+          "lat": 34.4106065,
+          "lon": 133.2280027
+        },
+        {
+          "lat": 34.4105468,
+          "lon": 133.2277587
+        },
+        {
+          "lat": 34.41074,
+          "lon": 133.2276892
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941235,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941236,
+      "geometry": [
+        {
+          "lat": 34.4106194,
+          "lon": 133.2275942
+        },
+        {
+          "lat": 34.4106311,
+          "lon": 133.227641
+        },
+        {
+          "lat": 34.4106146,
+          "lon": 133.2276471
+        },
+        {
+          "lat": 34.4106029,
+          "lon": 133.2276002
+        },
+        {
+          "lat": 34.4106194,
+          "lon": 133.2275942
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941236,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941237,
+      "geometry": [
+        {
+          "lat": 34.410589,
+          "lon": 133.2276112
+        },
+        {
+          "lat": 34.4106007,
+          "lon": 133.2276496
+        },
+        {
+          "lat": 34.4105598,
+          "lon": 133.2276681
+        },
+        {
+          "lat": 34.410548,
+          "lon": 133.2276296
+        },
+        {
+          "lat": 34.410589,
+          "lon": 133.2276112
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941237,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941238,
+      "geometry": [
+        {
+          "lat": 34.4105293,
+          "lon": 133.2276055
+        },
+        {
+          "lat": 34.4105515,
+          "lon": 133.227685
+        },
+        {
+          "lat": 34.4105269,
+          "lon": 133.2276951
+        },
+        {
+          "lat": 34.4105047,
+          "lon": 133.2276156
+        },
+        {
+          "lat": 34.4105293,
+          "lon": 133.2276055
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941238,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941239,
+      "geometry": [
+        {
+          "lat": 34.4105468,
+          "lon": 133.2273529
+        },
+        {
+          "lat": 34.4105925,
+          "lon": 133.2275374
+        },
+        {
+          "lat": 34.4104991,
+          "lon": 133.2275713
+        },
+        {
+          "lat": 34.4104535,
+          "lon": 133.2273869
+        },
+        {
+          "lat": 34.4105468,
+          "lon": 133.2273529
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941239,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941240,
+      "geometry": [
+        {
+          "lat": 34.4109636,
+          "lon": 133.2273331
+        },
+        {
+          "lat": 34.4109893,
+          "lon": 133.2274399
+        },
+        {
+          "lat": 34.4107563,
+          "lon": 133.2275222
+        },
+        {
+          "lat": 34.4107306,
+          "lon": 133.2274154
+        },
+        {
+          "lat": 34.4109636,
+          "lon": 133.2273331
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941240,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941241,
+      "geometry": [
+        {
+          "lat": 34.4109226,
+          "lon": 133.2272025
+        },
+        {
+          "lat": 34.4109478,
+          "lon": 133.2273043
+        },
+        {
+          "lat": 34.4106469,
+          "lon": 133.2274136
+        },
+        {
+          "lat": 34.4106217,
+          "lon": 133.2273118
+        },
+        {
+          "lat": 34.4109226,
+          "lon": 133.2272025
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941241,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941243,
+      "geometry": [
+        {
+          "lat": 34.4106335,
+          "lon": 133.2270436
+        },
+        {
+          "lat": 34.410651,
+          "lon": 133.2271088
+        },
+        {
+          "lat": 34.4106246,
+          "lon": 133.2271193
+        },
+        {
+          "lat": 34.410607,
+          "lon": 133.227054
+        },
+        {
+          "lat": 34.4106335,
+          "lon": 133.2270436
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941243,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941244,
+      "geometry": [
+        {
+          "lat": 34.4107072,
+          "lon": 133.2267413
+        },
+        {
+          "lat": 34.4107892,
+          "lon": 133.2270379
+        },
+        {
+          "lat": 34.4107039,
+          "lon": 133.2270725
+        },
+        {
+          "lat": 34.4106219,
+          "lon": 133.2267759
+        },
+        {
+          "lat": 34.4107072,
+          "lon": 133.2267413
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941244,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941246,
+      "geometry": [
+        {
+          "lat": 34.4102694,
+          "lon": 133.2262773
+        },
+        {
+          "lat": 34.4103291,
+          "lon": 133.2265199
+        },
+        {
+          "lat": 34.4101445,
+          "lon": 133.2265866
+        },
+        {
+          "lat": 34.4100848,
+          "lon": 133.226344
+        },
+        {
+          "lat": 34.4102694,
+          "lon": 133.2262773
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941246,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941247,
+      "geometry": [
+        {
+          "lat": 34.4105433,
+          "lon": 133.2263369
+        },
+        {
+          "lat": 34.4105694,
+          "lon": 133.2264178
+        },
+        {
+          "lat": 34.4104195,
+          "lon": 133.2264887
+        },
+        {
+          "lat": 34.4103935,
+          "lon": 133.2264078
+        },
+        {
+          "lat": 34.4105433,
+          "lon": 133.2263369
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941247,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941248,
+      "geometry": [
+        {
+          "lat": 34.4104227,
+          "lon": 133.2260162
+        },
+        {
+          "lat": 34.4105152,
+          "lon": 133.2263312
+        },
+        {
+          "lat": 34.410399,
+          "lon": 133.2263813
+        },
+        {
+          "lat": 34.4103065,
+          "lon": 133.2260663
+        },
+        {
+          "lat": 34.4104227,
+          "lon": 133.2260162
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941248,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941249,
+      "geometry": [
+        {
+          "lat": 34.4102998,
+          "lon": 133.2256621
+        },
+        {
+          "lat": 34.4103378,
+          "lon": 133.2257842
+        },
+        {
+          "lat": 34.4102796,
+          "lon": 133.2258108
+        },
+        {
+          "lat": 34.4102416,
+          "lon": 133.2256888
+        },
+        {
+          "lat": 34.4102998,
+          "lon": 133.2256621
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941249,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941251,
+      "geometry": [
+        {
+          "lat": 34.4102711,
+          "lon": 133.2255216
+        },
+        {
+          "lat": 34.410291,
+          "lon": 133.2255926
+        },
+        {
+          "lat": 34.4102374,
+          "lon": 133.2256147
+        },
+        {
+          "lat": 34.4102175,
+          "lon": 133.2255437
+        },
+        {
+          "lat": 34.4102711,
+          "lon": 133.2255216
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941251,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941253,
+      "geometry": [
+        {
+          "lat": 34.4099895,
+          "lon": 133.2250136
+        },
+        {
+          "lat": 34.4099997,
+          "lon": 133.2250563
+        },
+        {
+          "lat": 34.4099511,
+          "lon": 133.2250733
+        },
+        {
+          "lat": 34.409941,
+          "lon": 133.2250306
+        },
+        {
+          "lat": 34.4099895,
+          "lon": 133.2250136
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941253,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941263,
+      "geometry": [
+        {
+          "lat": 34.4117681,
+          "lon": 133.2288495
+        },
+        {
+          "lat": 34.4117781,
+          "lon": 133.2288433
+        },
+        {
+          "lat": 34.4118005,
+          "lon": 133.2288958
+        },
+        {
+          "lat": 34.4117888,
+          "lon": 133.2289032
+        },
+        {
+          "lat": 34.4118827,
+          "lon": 133.2291227
+        },
+        {
+          "lat": 34.4118144,
+          "lon": 133.2291656
+        },
+        {
+          "lat": 34.4116861,
+          "lon": 133.2288656
+        },
+        {
+          "lat": 34.4117562,
+          "lon": 133.2288215
+        },
+        {
+          "lat": 34.4117681,
+          "lon": 133.2288495
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941263,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941264,
+      "geometry": [
+        {
+          "lat": 34.4114325,
+          "lon": 133.2286805
+        },
+        {
+          "lat": 34.4108626,
+          "lon": 133.2289843
+        },
+        {
+          "lat": 34.4107844,
+          "lon": 133.2287688
+        },
+        {
+          "lat": 34.4113543,
+          "lon": 133.2284649
+        },
+        {
+          "lat": 34.4114325,
+          "lon": 133.2286805
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941264,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941265,
+      "geometry": [
+        {
+          "lat": 34.411547,
+          "lon": 133.2288106
+        },
+        {
+          "lat": 34.4116764,
+          "lon": 133.2291775
+        },
+        {
+          "lat": 34.4116514,
+          "lon": 133.2291904
+        },
+        {
+          "lat": 34.4116673,
+          "lon": 133.2292355
+        },
+        {
+          "lat": 34.4114417,
+          "lon": 133.2293524
+        },
+        {
+          "lat": 34.4114292,
+          "lon": 133.229317
+        },
+        {
+          "lat": 34.4110133,
+          "lon": 133.2295325
+        },
+        {
+          "lat": 34.4108901,
+          "lon": 133.2291831
+        },
+        {
+          "lat": 34.4109791,
+          "lon": 133.2291369
+        },
+        {
+          "lat": 34.4109632,
+          "lon": 133.2290918
+        },
+        {
+          "lat": 34.4112126,
+          "lon": 133.2289626
+        },
+        {
+          "lat": 34.4112189,
+          "lon": 133.2289806
+        },
+        {
+          "lat": 34.411547,
+          "lon": 133.2288106
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941265,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941267,
+      "geometry": [
+        {
+          "lat": 34.4119043,
+          "lon": 133.2294071
+        },
+        {
+          "lat": 34.4119152,
+          "lon": 133.2294661
+        },
+        {
+          "lat": 34.4118389,
+          "lon": 133.2294868
+        },
+        {
+          "lat": 34.411828,
+          "lon": 133.2294278
+        },
+        {
+          "lat": 34.4119043,
+          "lon": 133.2294071
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941267,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941270,
+      "geometry": [
+        {
+          "lat": 34.4123035,
+          "lon": 133.2293116
+        },
+        {
+          "lat": 34.412376,
+          "lon": 133.2294584
+        },
+        {
+          "lat": 34.4122868,
+          "lon": 133.2295231
+        },
+        {
+          "lat": 34.4122143,
+          "lon": 133.2293763
+        },
+        {
+          "lat": 34.4123035,
+          "lon": 133.2293116
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941270,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941271,
+      "geometry": [
+        {
+          "lat": 34.4124153,
+          "lon": 133.2295449
+        },
+        {
+          "lat": 34.4123842,
+          "lon": 133.2295704
+        },
+        {
+          "lat": 34.412361,
+          "lon": 133.2295288
+        },
+        {
+          "lat": 34.412392,
+          "lon": 133.2295033
+        },
+        {
+          "lat": 34.4124153,
+          "lon": 133.2295449
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941271,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941272,
+      "geometry": [
+        {
+          "lat": 34.4124081,
+          "lon": 133.2296039
+        },
+        {
+          "lat": 34.4123953,
+          "lon": 133.2295797
+        },
+        {
+          "lat": 34.4124384,
+          "lon": 133.2295462
+        },
+        {
+          "lat": 34.4124512,
+          "lon": 133.2295704
+        },
+        {
+          "lat": 34.4124081,
+          "lon": 133.2296039
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941272,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941273,
+      "geometry": [
+        {
+          "lat": 34.4125469,
+          "lon": 133.2297796
+        },
+        {
+          "lat": 34.412501,
+          "lon": 133.2298146
+        },
+        {
+          "lat": 34.4124042,
+          "lon": 133.2296282
+        },
+        {
+          "lat": 34.4124501,
+          "lon": 133.2295932
+        },
+        {
+          "lat": 34.4125469,
+          "lon": 133.2297796
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941273,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941274,
+      "geometry": [
+        {
+          "lat": 34.4119336,
+          "lon": 133.2295046
+        },
+        {
+          "lat": 34.4119871,
+          "lon": 133.2297467
+        },
+        {
+          "lat": 34.4122729,
+          "lon": 133.2296539
+        },
+        {
+          "lat": 34.4124535,
+          "lon": 133.2304706
+        },
+        {
+          "lat": 34.4114172,
+          "lon": 133.2308072
+        },
+        {
+          "lat": 34.4113547,
+          "lon": 133.2305244
+        },
+        {
+          "lat": 34.4112024,
+          "lon": 133.2305739
+        },
+        {
+          "lat": 34.4110244,
+          "lon": 133.2297688
+        },
+        {
+          "lat": 34.4113769,
+          "lon": 133.2296542
+        },
+        {
+          "lat": 34.4113662,
+          "lon": 133.2296056
+        },
+        {
+          "lat": 34.4116119,
+          "lon": 133.2295258
+        },
+        {
+          "lat": 34.4116291,
+          "lon": 133.2296035
+        },
+        {
+          "lat": 34.4119336,
+          "lon": 133.2295046
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941274,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941275,
+      "geometry": [
+        {
+          "lat": 34.4114096,
+          "lon": 133.2308967
+        },
+        {
+          "lat": 34.4114271,
+          "lon": 133.2309669
+        },
+        {
+          "lat": 34.4113808,
+          "lon": 133.2309839
+        },
+        {
+          "lat": 34.4113632,
+          "lon": 133.2309138
+        },
+        {
+          "lat": 34.4114096,
+          "lon": 133.2308967
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941275,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941276,
+      "geometry": [
+        {
+          "lat": 34.4114538,
+          "lon": 133.2310228
+        },
+        {
+          "lat": 34.4114759,
+          "lon": 133.2311109
+        },
+        {
+          "lat": 34.4114018,
+          "lon": 133.2311381
+        },
+        {
+          "lat": 34.4113797,
+          "lon": 133.2310501
+        },
+        {
+          "lat": 34.4114538,
+          "lon": 133.2310228
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941276,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941277,
+      "geometry": [
+        {
+          "lat": 34.4120236,
+          "lon": 133.2309678
+        },
+        {
+          "lat": 34.4119664,
+          "lon": 133.2307396
+        },
+        {
+          "lat": 34.4126653,
+          "lon": 133.2304823
+        },
+        {
+          "lat": 34.4127225,
+          "lon": 133.2307106
+        },
+        {
+          "lat": 34.4120236,
+          "lon": 133.2309678
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941277,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941278,
+      "geometry": [
+        {
+          "lat": 34.4118931,
+          "lon": 133.230713
+        },
+        {
+          "lat": 34.411953,
+          "lon": 133.2309522
+        },
+        {
+          "lat": 34.411539,
+          "lon": 133.2311046
+        },
+        {
+          "lat": 34.4114791,
+          "lon": 133.2308654
+        },
+        {
+          "lat": 34.4118931,
+          "lon": 133.230713
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941278,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941279,
+      "geometry": [
+        {
+          "lat": 34.4121918,
+          "lon": 133.2311167
+        },
+        {
+          "lat": 34.4122538,
+          "lon": 133.2313643
+        },
+        {
+          "lat": 34.4120303,
+          "lon": 133.2314466
+        },
+        {
+          "lat": 34.4119682,
+          "lon": 133.231199
+        },
+        {
+          "lat": 34.4121918,
+          "lon": 133.2311167
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941279,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941280,
+      "geometry": [
+        {
+          "lat": 34.4127041,
+          "lon": 133.2309423
+        },
+        {
+          "lat": 34.4127682,
+          "lon": 133.2311985
+        },
+        {
+          "lat": 34.4125469,
+          "lon": 133.23128
+        },
+        {
+          "lat": 34.4124827,
+          "lon": 133.2310238
+        },
+        {
+          "lat": 34.4127041,
+          "lon": 133.2309423
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941280,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941281,
+      "geometry": [
+        {
+          "lat": 34.414258,
+          "lon": 133.2322787
+        },
+        {
+          "lat": 34.4142582,
+          "lon": 133.2323934
+        },
+        {
+          "lat": 34.4140281,
+          "lon": 133.2323941
+        },
+        {
+          "lat": 34.4140278,
+          "lon": 133.2322794
+        },
+        {
+          "lat": 34.414258,
+          "lon": 133.2322787
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941281,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941282,
+      "geometry": [
+        {
+          "lat": 34.4138292,
+          "lon": 133.2331753
+        },
+        {
+          "lat": 34.4138292,
+          "lon": 133.2332343
+        },
+        {
+          "lat": 34.4137031,
+          "lon": 133.2332343
+        },
+        {
+          "lat": 34.4137031,
+          "lon": 133.2331753
+        },
+        {
+          "lat": 34.4138292,
+          "lon": 133.2331753
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941282,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941283,
+      "geometry": [
+        {
+          "lat": 34.4129375,
+          "lon": 133.2320501
+        },
+        {
+          "lat": 34.4129375,
+          "lon": 133.232486
+        },
+        {
+          "lat": 34.4126698,
+          "lon": 133.2324859
+        },
+        {
+          "lat": 34.4126698,
+          "lon": 133.2320501
+        },
+        {
+          "lat": 34.4129375,
+          "lon": 133.2320501
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941283,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941284,
+      "geometry": [
+        {
+          "lat": 34.4135952,
+          "lon": 133.2320769
+        },
+        {
+          "lat": 34.4135952,
+          "lon": 133.2325021
+        },
+        {
+          "lat": 34.4133203,
+          "lon": 133.232502
+        },
+        {
+          "lat": 34.4133203,
+          "lon": 133.2320769
+        },
+        {
+          "lat": 34.4135952,
+          "lon": 133.2320769
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941284,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941285,
+      "geometry": [
+        {
+          "lat": 34.4121188,
+          "lon": 133.2338592
+        },
+        {
+          "lat": 34.4121188,
+          "lon": 133.2338834
+        },
+        {
+          "lat": 34.4120623,
+          "lon": 133.2338834
+        },
+        {
+          "lat": 34.4120623,
+          "lon": 133.2338592
+        },
+        {
+          "lat": 34.4121188,
+          "lon": 133.2338592
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941285,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941286,
+      "geometry": [
+        {
+          "lat": 34.4118466,
+          "lon": 133.2337318
+        },
+        {
+          "lat": 34.4118466,
+          "lon": 133.2338646
+        },
+        {
+          "lat": 34.4116773,
+          "lon": 133.2338646
+        },
+        {
+          "lat": 34.4116773,
+          "lon": 133.2337318
+        },
+        {
+          "lat": 34.4118466,
+          "lon": 133.2337318
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941286,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941287,
+      "geometry": [
+        {
+          "lat": 34.4122604,
+          "lon": 133.2337922
+        },
+        {
+          "lat": 34.4122604,
+          "lon": 133.2338499
+        },
+        {
+          "lat": 34.4121796,
+          "lon": 133.2338499
+        },
+        {
+          "lat": 34.4121796,
+          "lon": 133.2337922
+        },
+        {
+          "lat": 34.4122604,
+          "lon": 133.2337922
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941287,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941288,
+      "geometry": [
+        {
+          "lat": 34.4145495,
+          "lon": 133.2334495
+        },
+        {
+          "lat": 34.4145495,
+          "lon": 133.2329949
+        },
+        {
+          "lat": 34.4146026,
+          "lon": 133.2329949
+        },
+        {
+          "lat": 34.4146026,
+          "lon": 133.2330345
+        },
+        {
+          "lat": 34.4146292,
+          "lon": 133.2330345
+        },
+        {
+          "lat": 34.4146292,
+          "lon": 133.2334247
+        },
+        {
+          "lat": 34.4146037,
+          "lon": 133.2334247
+        },
+        {
+          "lat": 34.4146037,
+          "lon": 133.2334495
+        },
+        {
+          "lat": 34.4145495,
+          "lon": 133.2334495
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941288,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941289,
+      "geometry": [
+        {
+          "lat": 34.4146358,
+          "lon": 133.2327582
+        },
+        {
+          "lat": 34.4146331,
+          "lon": 133.2328816
+        },
+        {
+          "lat": 34.4145059,
+          "lon": 133.2328776
+        },
+        {
+          "lat": 34.4145086,
+          "lon": 133.2327542
+        },
+        {
+          "lat": 34.4146358,
+          "lon": 133.2327582
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941289,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941290,
+      "geometry": [
+        {
+          "lat": 34.4147221,
+          "lon": 133.2334475
+        },
+        {
+          "lat": 34.4147243,
+          "lon": 133.2335562
+        },
+        {
+          "lat": 34.41469,
+          "lon": 133.2335572
+        },
+        {
+          "lat": 34.4146878,
+          "lon": 133.2334485
+        },
+        {
+          "lat": 34.4147221,
+          "lon": 133.2334475
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941290,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941291,
+      "geometry": [
+        {
+          "lat": 34.4147232,
+          "lon": 133.2336219
+        },
+        {
+          "lat": 34.4147232,
+          "lon": 133.2337667
+        },
+        {
+          "lat": 34.4145373,
+          "lon": 133.2337667
+        },
+        {
+          "lat": 34.4145373,
+          "lon": 133.2336219
+        },
+        {
+          "lat": 34.4147232,
+          "lon": 133.2336219
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941291,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941292,
+      "geometry": [
+        {
+          "lat": 34.4144732,
+          "lon": 133.2333188
+        },
+        {
+          "lat": 34.4144743,
+          "lon": 133.233481
+        },
+        {
+          "lat": 34.4144036,
+          "lon": 133.2334818
+        },
+        {
+          "lat": 34.4144024,
+          "lon": 133.2333195
+        },
+        {
+          "lat": 34.4144732,
+          "lon": 133.2333188
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941292,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941293,
+      "geometry": [
+        {
+          "lat": 34.4144676,
+          "lon": 133.2330774
+        },
+        {
+          "lat": 34.4144621,
+          "lon": 133.2332946
+        },
+        {
+          "lat": 34.4143971,
+          "lon": 133.2332922
+        },
+        {
+          "lat": 34.4144026,
+          "lon": 133.2330749
+        },
+        {
+          "lat": 34.4144676,
+          "lon": 133.2330774
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941293,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941294,
+      "geometry": [
+        {
+          "lat": 34.4143426,
+          "lon": 133.2334864
+        },
+        {
+          "lat": 34.4143433,
+          "lon": 133.2336366
+        },
+        {
+          "lat": 34.4141386,
+          "lon": 133.233638
+        },
+        {
+          "lat": 34.4141379,
+          "lon": 133.2334878
+        },
+        {
+          "lat": 34.4143426,
+          "lon": 133.2334864
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941294,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941295,
+      "geometry": [
+        {
+          "lat": 34.4143846,
+          "lon": 133.2324229
+        },
+        {
+          "lat": 34.4143692,
+          "lon": 133.233465
+        },
+        {
+          "lat": 34.4140132,
+          "lon": 133.2334572
+        },
+        {
+          "lat": 34.4140287,
+          "lon": 133.2324151
+        },
+        {
+          "lat": 34.4143846,
+          "lon": 133.2324229
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941295,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941296,
+      "geometry": [
+        {
+          "lat": 34.4146092,
+          "lon": 133.2321963
+        },
+        {
+          "lat": 34.4146081,
+          "lon": 133.2326415
+        },
+        {
+          "lat": 34.4144886,
+          "lon": 133.2326411
+        },
+        {
+          "lat": 34.4144897,
+          "lon": 133.2321958
+        },
+        {
+          "lat": 34.4146092,
+          "lon": 133.2321963
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941296,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941298,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941409,
+      "geometry": [
+        {
+          "lat": 34.4132217,
+          "lon": 133.2296345
+        },
+        {
+          "lat": 34.4133112,
+          "lon": 133.2299515
+        },
+        {
+          "lat": 34.4130882,
+          "lon": 133.2300441
+        },
+        {
+          "lat": 34.4129986,
+          "lon": 133.2297271
+        },
+        {
+          "lat": 34.4132217,
+          "lon": 133.2296345
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941409,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941297,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941414,
+      "geometry": [
+        {
+          "lat": 34.4130719,
+          "lon": 133.2295246
+        },
+        {
+          "lat": 34.4131025,
+          "lon": 133.229635
+        },
+        {
+          "lat": 34.4131691,
+          "lon": 133.2296079
+        },
+        {
+          "lat": 34.4130719,
+          "lon": 133.2295246
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941414,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941297,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941455,
+      "geometry": [
+        {
+          "lat": 34.4127903,
+          "lon": 133.2298239
+        },
+        {
+          "lat": 34.4128275,
+          "lon": 133.2298946
+        },
+        {
+          "lat": 34.412791,
+          "lon": 133.2299227
+        },
+        {
+          "lat": 34.4127538,
+          "lon": 133.229852
+        },
+        {
+          "lat": 34.4127903,
+          "lon": 133.2298239
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941455,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941297,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 662941457,
+      "geometry": [
+        {
+          "lat": 34.4129916,
+          "lon": 133.2294546
+        },
+        {
+          "lat": 34.4125605,
+          "lon": 133.2290874
+        },
+        {
+          "lat": 34.412505,
+          "lon": 133.2291831
+        },
+        {
+          "lat": 34.4127255,
+          "lon": 133.2293708
+        },
+        {
+          "lat": 34.4127181,
+          "lon": 133.2293835
+        },
+        {
+          "lat": 34.4127486,
+          "lon": 133.2294095
+        },
+        {
+          "lat": 34.4127553,
+          "lon": 133.2293981
+        },
+        {
+          "lat": 34.4129354,
+          "lon": 133.2295515
+        },
+        {
+          "lat": 34.4129916,
+          "lon": 133.2294546
+        }
+      ],
+      "tags": {
+        "building": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 662941457,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 662941297,
+            "name": "尾道造船（株）"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1356289806,
+      "geometry": [
+        {
+          "lat": 34.42461,
+          "lon": 133.2442865
+        },
+        {
+          "lat": 34.4246832,
+          "lon": 133.2442614
+        },
+        {
+          "lat": 34.4246787,
+          "lon": 133.2442422
+        },
+        {
+          "lat": 34.4246055,
+          "lon": 133.2442673
+        },
+        {
+          "lat": 34.42461,
+          "lon": 133.2442865
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "ele": "4.1",
+        "height": "3.3",
+        "source": "MLIT_PLATEAU bldg_6f124ab2-ff9c-491b-b91d-6200c67b1ccb"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 1356289806,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 1476421132,
+            "name": "横浜ゴム 尾道工場"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1356289807,
+      "geometry": [
+        {
+          "lat": 34.424203,
+          "lon": 133.2450175
+        },
+        {
+          "lat": 34.4245062,
+          "lon": 133.2449032
+        },
+        {
+          "lat": 34.4244961,
+          "lon": 133.2448639
+        },
+        {
+          "lat": 34.4241929,
+          "lon": 133.2449781
+        },
+        {
+          "lat": 34.424203,
+          "lon": 133.2450175
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "ele": "3.6",
+        "height": "5.7",
+        "source": "MLIT_PLATEAU bldg_f6352715-5f42-4fdc-bf99-c2d76a7c66d4"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 1356289807,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 1476421132,
+            "name": "横浜ゴム 尾道工場"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1356289808,
+      "geometry": [
+        {
+          "lat": 34.4245382,
+          "lon": 133.2443082
+        },
+        {
+          "lat": 34.4245747,
+          "lon": 133.2442955
+        },
+        {
+          "lat": 34.4245682,
+          "lon": 133.2442684
+        },
+        {
+          "lat": 34.4245318,
+          "lon": 133.2442812
+        },
+        {
+          "lat": 34.4245382,
+          "lon": 133.2443082
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "ele": "4.1",
+        "height": "2.3",
+        "source": "MLIT_PLATEAU bldg_b386e88f-2f35-4c94-a74f-ce34950f7de1"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 1356289808,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 1476421132,
+            "name": "横浜ゴム 尾道工場"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1356289809,
+      "geometry": [
+        {
+          "lat": 34.4247467,
+          "lon": 133.2450372
+        },
+        {
+          "lat": 34.4247824,
+          "lon": 133.2450206
+        },
+        {
+          "lat": 34.424776,
+          "lon": 133.2450002
+        },
+        {
+          "lat": 34.4247403,
+          "lon": 133.2450168
+        },
+        {
+          "lat": 34.4247467,
+          "lon": 133.2450372
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "ele": "3.6",
+        "height": "4",
+        "source": "MLIT_PLATEAU bldg_09511392-e4d7-4c29-8fc2-4c014beb25cc"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 1356289809,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 1476421132,
+            "name": "横浜ゴム 尾道工場"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1356289810,
+      "geometry": [
+        {
+          "lat": 34.4245728,
+          "lon": 133.2445888
+        },
+        {
+          "lat": 34.4246365,
+          "lon": 133.2445676
+        },
+        {
+          "lat": 34.4246231,
+          "lon": 133.2445085
+        },
+        {
+          "lat": 34.4245595,
+          "lon": 133.2445297
+        },
+        {
+          "lat": 34.4245728,
+          "lon": 133.2445888
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "ele": "3.8",
+        "height": "2.5",
+        "source": "MLIT_PLATEAU bldg_af69752e-a96b-47ff-bb88-360a1276eef6"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 1356289810,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 1476421132,
+            "name": "横浜ゴム 尾道工場"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1356289811,
+      "geometry": [
+        {
+          "lat": 34.4245525,
+          "lon": 133.24497
+        },
+        {
+          "lat": 34.4245893,
+          "lon": 133.2449562
+        },
+        {
+          "lat": 34.4245706,
+          "lon": 133.2448827
+        },
+        {
+          "lat": 34.4245338,
+          "lon": 133.2448965
+        },
+        {
+          "lat": 34.4245525,
+          "lon": 133.24497
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "ele": "3.5",
+        "height": "3.3",
+        "source": "MLIT_PLATEAU bldg_a95d3a7d-6291-4df7-88ae-df85b5663e25"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 1356289811,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 1476421132,
+            "name": "横浜ゴム 尾道工場"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1356289812,
+      "geometry": [
+        {
+          "lat": 34.4246553,
+          "lon": 133.2434684
+        },
+        {
+          "lat": 34.4246641,
+          "lon": 133.2435038
+        },
+        {
+          "lat": 34.4245722,
+          "lon": 133.2435375
+        },
+        {
+          "lat": 34.424595,
+          "lon": 133.243629
+        },
+        {
+          "lat": 34.424582,
+          "lon": 133.2436338
+        },
+        {
+          "lat": 34.4246065,
+          "lon": 133.243732
+        },
+        {
+          "lat": 34.4244514,
+          "lon": 133.2437888
+        },
+        {
+          "lat": 34.4245707,
+          "lon": 133.2442674
+        },
+        {
+          "lat": 34.4246847,
+          "lon": 133.2442257
+        },
+        {
+          "lat": 34.4247209,
+          "lon": 133.244371
+        },
+        {
+          "lat": 34.4247932,
+          "lon": 133.2443445
+        },
+        {
+          "lat": 34.4247557,
+          "lon": 133.244194
+        },
+        {
+          "lat": 34.4249702,
+          "lon": 133.2441154
+        },
+        {
+          "lat": 34.4249647,
+          "lon": 133.2440935
+        },
+        {
+          "lat": 34.4250276,
+          "lon": 133.2440705
+        },
+        {
+          "lat": 34.4250175,
+          "lon": 133.2440301
+        },
+        {
+          "lat": 34.4249512,
+          "lon": 133.2440544
+        },
+        {
+          "lat": 34.4249392,
+          "lon": 133.2440059
+        },
+        {
+          "lat": 34.4250092,
+          "lon": 133.2439803
+        },
+        {
+          "lat": 34.4249933,
+          "lon": 133.2439167
+        },
+        {
+          "lat": 34.4249219,
+          "lon": 133.2439429
+        },
+        {
+          "lat": 34.4247994,
+          "lon": 133.2434515
+        },
+        {
+          "lat": 34.4247841,
+          "lon": 133.2434571
+        },
+        {
+          "lat": 34.4247759,
+          "lon": 133.2434242
+        },
+        {
+          "lat": 34.4246553,
+          "lon": 133.2434684
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "ele": "4",
+        "height": "22.6",
+        "source": "MLIT_PLATEAU bldg_e7850392-71ab-43bf-9ab8-77c58ba2f4d1"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 1356289812,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 1476421132,
+            "name": "横浜ゴム 尾道工場"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1356290061,
+      "geometry": [
+        {
+          "lat": 34.4254869,
+          "lon": 133.2442606
+        },
+        {
+          "lat": 34.4255565,
+          "lon": 133.2442345
+        },
+        {
+          "lat": 34.4253261,
+          "lon": 133.2433289
+        },
+        {
+          "lat": 34.4249015,
+          "lon": 133.2434877
+        },
+        {
+          "lat": 34.4250372,
+          "lon": 133.2440208
+        },
+        {
+          "lat": 34.4250296,
+          "lon": 133.2440236
+        },
+        {
+          "lat": 34.4251243,
+          "lon": 133.2443962
+        },
+        {
+          "lat": 34.4251934,
+          "lon": 133.2443703
+        },
+        {
+          "lat": 34.4253209,
+          "lon": 133.2443226
+        },
+        {
+          "lat": 34.4253259,
+          "lon": 133.2443208
+        },
+        {
+          "lat": 34.4254869,
+          "lon": 133.2442606
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "ele": "3.4",
+        "height": "19",
+        "source": "MLIT_PLATEAU bldg_81811b39-4b4e-4b11-bc38-e6bf497c339a"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 1356290061,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 1476421132,
+            "name": "横浜ゴム 尾道工場"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1356290134,
+      "geometry": [
+        {
+          "lat": 34.4249739,
+          "lon": 133.2448883
+        },
+        {
+          "lat": 34.425179,
+          "lon": 133.24481
+        },
+        {
+          "lat": 34.4251358,
+          "lon": 133.2446453
+        },
+        {
+          "lat": 34.4249307,
+          "lon": 133.2447237
+        },
+        {
+          "lat": 34.4249739,
+          "lon": 133.2448883
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "ele": "3.6",
+        "height": "10.4",
+        "source": "MLIT_PLATEAU bldg_26aaba4e-7cae-44b8-90d9-5b3bdc85b635"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 1356290134,
+        "building": "yes",
+        "name": null,
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 1476421132,
+            "name": "横浜ゴム 尾道工場"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1476411651,
+      "geometry": [
+        {
+          "lat": 34.401069,
+          "lon": 133.1965727
+        },
+        {
+          "lat": 34.4011969,
+          "lon": 133.1968543
+        },
+        {
+          "lat": 34.4010463,
+          "lon": 133.1970017
+        },
+        {
+          "lat": 34.4008493,
+          "lon": 133.196741
+        },
+        {
+          "lat": 34.401069,
+          "lon": 133.1965727
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "向島ドック総合事務所",
+        "office": "yes"
+      },
+      "spatialEvidence": {
+        "osm_way_id": 1476411651,
+        "building": "yes",
+        "name": "向島ドック総合事務所",
+        "matched_industrial_sites": [
+          {
+            "osm_way_id": 1476411650,
+            "name": "向島ドック"
+          }
+        ],
+        "classification": "spatial-candidate-not-verified-industrial-building"
+      }
+    }
+  ]
+}
